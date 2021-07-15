@@ -36,12 +36,12 @@ from helper_funcs.chat_base import TRChatBase
 
 bot_token = Config.TG_BOT_TOKEN 
 
-help_keyboard = [[InlineKeyboardButton('Support Channel', url='https://t.me/Mai_bOTs'),
-                    InlineKeyboardButton('Feedback', url='https://t.me/No_OnE_Kn0wS_Me')
+help_keyboard = [[InlineKeyboardButton('Support', url='https://t.me/DeepakV111_bot'),
+                    InlineKeyboardButton('Feedback', url='https://t.me/DeepakV111_bot')
                 ],
                 [
-                    InlineKeyboardButton('Other Bots', url='https://t.me/Mai_bOTs/17'),
-                    InlineKeyboardButton('Source', url='https://github.com/No-OnE-Kn0wS-Me/FileRenameBot')]]
+                    InlineKeyboardButton('Developer', url='https://t.me/DeepakV111_bot'),
+                    InlineKeyboardButton('Source', url='https://t.me/movieszzzone')]]
 help_reply_markup = InlineKeyboardMarkup(help_keyboard)
 
 def GetExpiryDate(chat_id):
