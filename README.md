@@ -11,7 +11,7 @@ An Multi purpose Bot Which Can :-
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SeriesZone101/File-Renamer2-Sz)
 
 If you Find Any Bugs Or Want to Give Your Feedbacks Then Kindly Contact Us Through [Telegram ](https://telegram.dog/DeepakV111_bot) 
-Also Support Our Channel [Mai_bOTs](https://telegram.dog/movieszzzone) 
+Also Support Our Channel [Channel](https://telegram.dog/movieszzzone) 
 
 ## Credits, and Thanks to Beloved Developers ;
 
